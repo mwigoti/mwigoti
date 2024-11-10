@@ -5,14 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwigoti" alt="mwigoti" /></a> </p>
 
-- 🔭 I’m currently working on **1. AgriVision 🌾 -
-- **Overview**: A comprehensive AI platform for crop monitoring and precision agriculture.
+- 🔭 I’m currently working on **1. AgriVision 🌾
+  
+- Overview: A comprehensive AI platform for crop monitoring and precision agriculture.
+  
 - - **Tech Stack**: Django, YOLO for object detection, integration with satellite APIs, and cloud-based image analysis.
-  - - **Key Features**: - Real-time monitoring using satellite and drone imagery - Soil moisture and health analysis through multi-spectral data - Forecasting and yield estimation for improved agricultural outcomes
- - **Vision**: To optimize crop health management by integrating regional data and real-time insights, tailored to farming needs.
- -
+  
+- **Key Features**: - Real-time monitoring using satellite and drone imagery - Soil moisture and health analysis through multi-spectral data - Forecasting and yield estimation for improved agricultural outcomes
+  
+  Vision: To optimize crop health management by integrating regional data and real-time insights, tailored to farming needs.
+ 
  - Artverse 🎨📚 - **Overview**: A platform for showcasing art and literature, with unique purchasing options.
- - **Features**: - Premium users can buy limited editions, while others can invest in fractional ownership of artwork.**
+   
+ - Features: - Premium users can buy limited editions, while others can invest in fractional ownership of artwork.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
