@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwigoti" alt="mwigoti" /></a> </p>
 
-- 🔭 I’m currently working on **1. AgriVision 🌾
+- 🔭 I’m currently working on 1. AgriVision 🌾
   
 - Overview: A comprehensive AI platform for crop monitoring and precision agriculture.
   
