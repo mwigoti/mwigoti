@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Henry Mwoha</h1>
-<h3 align="center">A Welcome to my GitHub! I’m a Geospatial Engineer, software developer, data scientist, and founder of **Code Cubes**, a tech and programming education company based in Kenya.</h3>
+<h3 align="center">A Welcome to my GitHub! I’m a Geospatial Engineer, software developer, data scientist, and founder of <strong>Code-Cube</strong>, a tech and programming education company based in Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwigoti&label=Profile%20views&color=0e75b6&style=flat" alt="mwigoti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwigoti" alt="mwigoti" /></a> </p>
 
-- 🔭 I’m currently working on 1. AgriVision 🌾
+- 🔭 I’m currently working on
+
+-  <strong> 1. AgriVision 🌾</strong>
   
-- Overview: A comprehensive AI platform for crop monitoring and precision agriculture.
+-<strong> Overview: </strong>
+
+-   A comprehensive AI platform for crop monitoring and precision agriculture.
   
-- - **Tech Stack**: Django, YOLO for object detection, integration with satellite APIs, and cloud-based image analysis.
+- - <strong> Tech Stack:</strong> Django, computer vision, integration with satellite APIs, and cloud-based image analysis.
   
-- **Key Features**: - Real-time monitoring using satellite and drone imagery - Soil moisture and health analysis through multi-spectral data - Forecasting and yield estimation for improved agricultural outcomes
+- <strong> Key Features:</strong>
+
+-   - Real-time monitoring using satellite and drone imagery - Soil moisture and health analysis through multi-spectral data - Forecasting and yield estimation for improved agricultural outcomes
   
   Vision: To optimize crop health management by integrating regional data and real-time insights, tailored to farming needs.
  
