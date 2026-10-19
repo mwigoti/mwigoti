@@ -1,40 +1,162 @@
-<h1 align="center">Hi 👋, I'm Henry Mwoha</h1>
-<h3 align="center">A Welcome to my GitHub! I’m a Geospatial Engineer, software developer, data scientist, and founder of <strong>Code-Cube</strong>, a tech and programming education company based in Kenya.</h3>
+# Hi 👋, I'm Henry Mwoha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwigoti&label=Profile%20views&color=0e75b6&style=flat" alt="mwigoti" /> </p>
+### Geospatial Engineer | Earth Observation | AI & Data Science | Software Developer | Founder
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwigoti" alt="mwigoti" /></a> </p>
+I'm a Geospatial Engineer and Space Technology professional based in Kenya, working at the intersection of **satellite remote sensing, geospatial AI, climate intelligence, and software engineering**.
 
-- 🔭 I’m currently working on
+I build technology that turns Earth observation data and complex datasets into actionable insights for agriculture, climate resilience, environmental monitoring, and disaster risk management. I also enjoy building open-source tools, AI-powered applications, and software that makes technical knowledge more accessible.
 
--  <strong> 1. AgriVision 🌾</strong>
-  
--<strong> Overview: </strong>
+- 🌍 **Co-Founder & CTO at TerraSat** — building geospatial intelligence solutions for climate resilience, agriculture, and environmental risk.
+- 🛰️ **Earth Observation & Remote Sensing** — working with satellite imagery, GIS, spatial analytics, and environmental datasets.
+- 🌾 **AgriVision** — developing AI-powered crop monitoring, crop health classification, yield estimation, and precision agriculture workflows.
+- ☕ **TerraFarm** — exploring satellite and IoT-enabled digital monitoring, reporting, and verification (MRV) for agricultural supply chains and export-market traceability.
+- 🌧️ **NEWIS** — developing geospatial approaches to urban flood-risk intelligence and community-centred early warning.
+- 💻 **Founder & CEO of Code-Cubes** — making programming and technology education more accessible.
+- 🧩 **Open source** — contributing to geospatial software and exploring WebAssembly-powered GIS tools.
 
--   A comprehensive AI platform for crop monitoring and precision agriculture.
-  
-- - <strong> Tech Stack:</strong> Django, computer vision, integration with satellite APIs, and cloud-based image analysis.
-  
-- <strong> Key Features:</strong>
+I believe the future of technology in Africa will be shaped by locally relevant innovation, open knowledge, and the intelligent use of data.
 
--   - Real-time monitoring using satellite and drone imagery - Soil moisture and health analysis through multi-spectral data - Forecasting and yield estimation for improved agricultural outcomes
-  
-  Vision: To optimize crop health management by integrating regional data and real-time insights, tailored to farming needs.
- 
- - Artverse 🎨📚 - **Overview**: A platform for showcasing art and literature, with unique purchasing options.
-   
- - Features: - Premium users can buy limited editions, while others can invest in fractional ownership of artwork.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 Featured Projects
+
+### 🌾 AgriVision — AI-Powered Precision Agriculture
+
+An agricultural intelligence platform exploring how satellite remote sensing, machine learning, and environmental data can support better farming decisions.
+
+**What I'm building:**
+- Satellite-based crop health monitoring using Sentinel-2 vegetation indices.
+- Crop health classification and yield estimation using machine learning.
+- Integration of rainfall, temperature, soil, and other environmental datasets.
+- Precision agriculture insights to support targeted farm management.
+- A foundation for future integration of radar imagery and field-level observations.
+
+**Technologies:** Python, Django, Google Earth Engine, Sentinel-2, GIS, machine learning, geospatial data processing.
+
+### ☕ TerraFarm — Satellite-IoT Digital MRV
+
+A geospatial approach to agricultural traceability and digital verification, with coffee as an initial validation use case and broader applications across agricultural supply chains.
+
+**Focus areas:**
+- Satellite-supported monitoring of agricultural land.
+- Geospatial farm records and polygon-based traceability.
+- Digital monitoring, reporting, and verification (MRV).
+- Data workflows supporting deforestation-risk assessment and export-market compliance.
+- Interoperable data products for cooperatives, exporters, and supply-chain stakeholders.
+
+**Technologies:** Earth observation, GIS, PostGIS, Python, satellite imagery, geospatial APIs.
+
+### 🌧️ NEWIS — Urban Flood Intelligence & Early Warning
+
+A geospatial early-warning concept focused on flood-risk intelligence for vulnerable urban communities.
+
+**Focus areas:**
+- Geospatial risk mapping and spatial analysis.
+- Ward-level reporting and risk communication.
+- Integration of Earth observation and environmental datasets.
+- Community-centred SMS and USSD warning workflows.
+- Spatial data infrastructure designed to minimise unnecessary collection of sensitive personal location data.
+
+**Technologies:** Python, Django, PostGIS, remote sensing, geospatial analytics, SMS/USSD workflows.
+
+### 🛰️ TerraSat — Climate & Spatial Intelligence
+
+TerraSat develops geospatial intelligence concepts that combine Earth observation, spatial analytics, and environmental data to support climate resilience, disaster preparedness, food security, and environmental protection.
+
+I'm particularly interested in turning satellite-derived indicators and local observations into practical intelligence for communities, agricultural stakeholders, financial institutions, and organisations managing climate risk.
+
+### 🗺️ RustGIS — Open-Source Geospatial Engineering
+
+Exploring contributions to open-source geospatial software, including a proposed **Vulnerability & Risk Assessment** geoprocessing plugin.
+
+The work explores how reusable geospatial analysis tools can be packaged as WebAssembly plugins for execution across desktop, command-line, and web environments.
+
+**Focus areas:** Rust, WebAssembly, geospatial analysis, plugin architecture, risk assessment, open-source GIS.
+
+---
+
+## 🧠 Technical Interests
+
+- **Earth Observation:** Satellite remote sensing, Sentinel-1, Sentinel-2, Landsat, vegetation indices, land monitoring.
+- **Geospatial Engineering:** GIS, spatial databases, raster and vector analysis, cartography, spatial modelling.
+- **AI & Data Science:** Machine learning, computer vision, time-series analysis, predictive modelling, geospatial AI.
+- **Climate Technology:** Flood and drought intelligence, climate resilience, agricultural monitoring, environmental risk.
+- **Software Engineering:** Backend development, REST APIs, full-stack systems, data pipelines, cloud integrations.
+- **Open Source:** Geospatial tooling, reproducible research, developer tools, and accessible technology.
+
+## 🛠️ Languages, Frameworks & Tools
+
+**Programming languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,c,cs,java,bash" alt="Python, JavaScript, TypeScript, Rust, C, C Sharp, Java and Bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend, web & application development**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwigoti&show_icons=true&locale=en&layout=compact" alt="mwigoti" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,react,flutter,html,css" alt="Django, Node.js, Express, React, Flutter, HTML and CSS" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwigoti&show_icons=true&locale=en" alt="mwigoti" /></p>
+**Data, databases & machine learning**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwigoti&" alt="mwigoti" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,pytorch,tensorflow,opencv" alt="PostgreSQL, MongoDB, MySQL, SQLite, PyTorch, TensorFlow and OpenCV" />
+</p>
 
+**Developer tools & infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,firebase" alt="Git, GitHub, Linux, Docker, AWS and Firebase" />
+</p>
+
+**Geospatial & Earth observation tools**
+
+- QGIS and ArcGIS Pro
+- Google Earth Engine
+- ENVI and ERDAS IMAGINE
+- AutoCAD
+- PostGIS and spatial data workflows
+- Sentinel and Landsat satellite data
+
+*My project-specific technology choices evolve as I test different approaches and build new systems.*
+
+---
+
+## 🏆 Highlights & Recognition
+
+- 🥇 **ACT In Space Kenya 2026 Winner**
+- 🌍 **ACT In Space 2026 International Semi-Finalist**, representing work developed around space-enabled innovation.
+- 🧩 **Open-source geospatial development**, including work on a proposed RustGIS risk-assessment plugin.
+- 🎤 **IEEE Industrial Electronics Society East Africa Industrial Innovation Summit** — selected presenter.
+- 🌱 Building geospatial and climate-tech initiatives through TerraSat, AgriVision, and TerraFarm.
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mwigoti&show_icons=true&rank_icon=github&hide_border=true" alt="Henry Mwoha's GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwigoti&layout=compact&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=mwigoti&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on projects involving Earth observation, geospatial AI, open-source GIS, climate technology, agricultural intelligence, and applied machine learning.
+
+- 💼 **LinkedIn:** [Henry Mwoha](https://www.linkedin.com/in/henry-mwoha/)
+- 🧑‍💻 **GitHub:** [@mwigoti](https://github.com/mwigoti)
+- 🌍 **TerraSat:** [LinkedIn](https://www.linkedin.com/company/terrasatlive/)
+
+If you're building something meaningful with geospatial data, satellite imagery, AI, or open-source technology, let's connect.
+
+**Building spatial intelligence for a more resilient future.** 🌍🛰️
